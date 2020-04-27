@@ -5,7 +5,7 @@
 </p>
 
 
-> Decentralized storage is a potential solution that Blockchain companies are researching and implementing. It is a system of being able to store your files without having to reply on large, centralized silos of data that don't undermine important values such as privacy and freedom of your information. An app that tracks all the COVID-19 information around the world. App shows you complete report of all affected coutries and global status as well. It is built using Flutter framework which helps ease the process of building beautiful designs.
+> Decentralized storage is a potential solution that Blockchain companies are researching and implementing. It is a system of being able to store your files without having to reply on large, centralized silos of data that don't undermine important values such as privacy and freedom of your information.
 
 ## Steps for building project are :-
 
