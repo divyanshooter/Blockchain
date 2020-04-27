@@ -3,7 +3,7 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.1.1-blue.svg?cacheSeconds=2592000" />
 </p>
->Decentralized storage is a potential solution that Blockchain companies are researching and implementing. It is a system of being able to store your files without having to reply on large, centralized silos of data that don't undermine important values such as privacy and freedom of your information.
+> Decentralized storage is a potential solution that Blockchain companies are researching and implementing. It is a system of being able to store your files without having to reply on large, centralized silos of data that don't undermine important values such as privacy and freedom of your information.
 
 
 ## Steps for building project are :-
