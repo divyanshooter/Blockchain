@@ -1,4 +1,4 @@
-<h1 align="center">Decentralised Storage SYstem</h1>
+<h1 align="center">Decentralised Storage System</h1>
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.1.1-blue.svg?cacheSeconds=2592000" />
@@ -26,8 +26,10 @@
 
 👤 **Divyanshu Chaturvedi**
 * Github: [@divyanshooter](https://github.com/divyanshooter)
+
 👤 **Chirag Garg**
 * Github: [@DeVil2O](https://github.com/DeVil2O)
+
 👤 **Shivam Gupta**
 
 ### :heart: Found this project useful?
