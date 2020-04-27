@@ -1,0 +1,32 @@
+.tenant{
+    width:500px;
+    margin-top:1rem;
+    color:black;
+}
+
+.tenantBtn{
+    margin-top:3rem;
+    width:50%;
+
+}
+.tenantBtns{
+    margin-top:4.3rem;
+
+}
+
+.controlContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.controlContainer input {
+    width:10%;
+    height:10%;
+}
+.renterContainer{
+    background-color:white;
+    color:black;
+    height: 220px;
+    overflow-y: auto;
+
+}

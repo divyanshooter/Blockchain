@@ -1,0 +1,13 @@
+.navigationBtn{
+    background: transparent;
+    margin:0 0.5rem;
+}
+
+.navigationBtn:hover {
+    border-bottom: 2px solid whitesmoke;
+}
+
+.dropBoxMargin {
+    width:400px;
+    margin-right: 6rem;
+}
